@@ -1,0 +1,3 @@
+brownie
+web3
+py-etherscan-api
